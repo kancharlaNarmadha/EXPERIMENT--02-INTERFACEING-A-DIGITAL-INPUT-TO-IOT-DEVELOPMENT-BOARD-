@@ -182,6 +182,7 @@ void Error_Handler(void)
 
 
 # IR SENSOR IS ON:
+
  ![EXP 2 2](https://github.com/kancharlaNarmadha/EXPERIMENT--02-INTERFACEING-A-DIGITAL-INPUT-TO-IOT-DEVELOPMENT-BOARD-/assets/119559316/b6c5e873-2044-4c90-a543-db34bd7d2f16)
 
 
